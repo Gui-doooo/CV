@@ -1,0 +1,82 @@
+{% assign header = site.data.data.header %}
+
+<header class="resume-header pt-4 pt-md-0">
+  <div class="row no-gutters">
+    <div class="col-auto">
+      <img class="picture" src="{{ '/assets/' | append: header.avatar | relative_url }}" alt="Profile" />
+    </div>
+
+    <div class="col">
+      <div class="p-4 d-flex flex-column flex-md-row justify-content-between">
+        <div class="primary-info">
+          <h1 class="name mt-0 mb-1 text-white">{{ site.author }}</h1>
+          {% if header.tagline_lines %}
+            <div class="title mb-3 header-tagline-lines">
+              {% for item in header.tagline_lines %}
+                <div class="header-tagline-line">&gt; {{ item }}</div>
+              {% endfor %}
+            </div>
+          {% else %}
+            <div class="title mb-3">{{ site.tagline }}</div>
+          {% endif %}
+        </div>
+        <div class="visible-print">
+          <h2>[Rolle / Tagline]</h2>
+          <p>[Kurzbeschreibung]</p>
+        </div>
+        <div class="secondary-info mt-4 mt-md-0">
+          <ul class="resume-social list-unstyled mb-0">
+            {% if header.phone_display %}
+            <li class="mb-2 contact-phone">
+              <span class="hidden-print fa-container text-center mr-2"><i class="fa-solid fa-phone"></i></span><strong class="visible-print-inline">Tel: </strong>{{ header.phone_display }}
+            </li>
+            {% endif %}
+            {% if header.email %}
+            <li class="mb-2 contact-email">
+              <span class="hidden-print fa-container text-center mr-2"><i class="fa-solid fa-envelope"></i></span><strong class="visible-print-inline">E-Mail: </strong>{{ header.email }}
+            </li>
+            {% endif %}
+            {% if header.linkedin %}
+              <li class="mb-2 contact-online">
+                <a href="https://{{ header.linkedin }}">
+                  <span class="hidden-print fa-container text-center mr-2"><i class="fa-brands fa-linkedin-in"></i></span>LinkedIn
+                </a>
+              </li>
+            {% endif %}
+
+            {% if header.xing %}
+              <li class="mb-2 contact-online">
+                <a href="https://{{ header.xing }}">
+                  <span class="hidden-print fa-container text-center mr-2"><i class="fa-brands fa-xing"></i></span>Xing
+                </a>
+              </li>
+            {% endif %}
+
+            {% if header.website %}
+              <li class="mb-2 contact-website">
+                <a href="https://{{ header.website }}">
+                  <span class="hidden-print fa-container text-center mr-2"><i class="fa-solid fa-globe"></i></span><strong class="visible-print-inline">Portfolio: </strong>{{ header.website }}
+                </a>
+              </li>
+            {% endif %}
+
+            {% if header.github %}
+              <li class="mb-2 contact-github">
+                <a href="https://{{ header.github }}">
+                  <span class="hidden-print fa-container text-center mr-2"><i class="fa-brands fa-github"></i></span><span class="hidden-print">GitHub</span><strong class="visible-print-inline">GitHub: </strong><span class="contact-github-text">{{ header.github }}</span>
+                </a>
+              </li>
+            {% endif %}
+
+            {% if header.location %}
+              <li class="mb-2 contact-location">
+                  <span class="hidden-print fa-container text-center mr-2"><i class="fa-solid fa-location-dot"></i></span><strong class="visible-print-inline">Ort: </strong>{{ header.location }}
+              </li>
+            {% endif %}
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+
