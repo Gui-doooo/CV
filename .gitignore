@@ -3,5 +3,8 @@ Thumbs.db
 *.log
 .cursor
 
+# Agent scratch workspace (temp scripts, filtered logs, state files)
+.agents/
+
 # Template only – not for commit
 _template-cv/
