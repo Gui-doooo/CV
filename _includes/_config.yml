@@ -1,10 +1,10 @@
-title: "[Vorname N.]"
-description: "[Jobtitel]"
-author: "[Vorname Nachname]"
-tagline: "[Jobtitel] · [Zusatz]"
+title: "Guido S."
+description: "Produktmanager · UX & Product Design"
+author: "Guido Schröder"
+tagline: "Produktmanager · UX & Product Design"
 
 # Must match repo name: https://<github-user>.github.io/<repo>/
-url: "https://your-username.github.io"
+url: "https://gui-doooo.github.io"
 baseurl: "/CV"
 
 lang: de

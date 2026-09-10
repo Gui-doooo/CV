@@ -3,99 +3,123 @@ layout: default
 title: Lebenslauf
 ---
 
-# [Vorname Nachname]
+# Guido Schröder
 
-**[Jobtitel] · [Zusatz]**
-_[Kurzer Claim/Subline]_
+**Produktmanager · UX & Product Design**
+_Full-Stack Designer — von der Strategie bis zur Implementierung_
 
 ---
 
 ## Profil
 
-[Platzhalter: Absatz 1 — beruflicher Überblick]
+Produktmanager mit Hintergrund als "Full-Stack Designer" — beteiligt in jeder Phase des User-Experience-Design-Prozesses, von der strategischen Konzeption bis zur konkreten Umsetzung.
 
-[Platzhalter: Absatz 2 — Stationen/Entwicklung in Kurzform]
+Seit April 2026 bei bobbie Baustoffhandel 4.0 als Produktmanager für eine Planungssoftware für Flachdächer tätig. Zuvor viereinhalb Jahre als Senior User Experience Designer bei der ABS Safety GmbH sowie sechs Jahre als User Experience Designer bei ifm. Ursprünglich Ausbildung zum Tischlergeselle, danach Diplom-Designstudium (Industrial and Product Design) an der Universität Duisburg-Essen.
 
 ---
 
 ## Berufserfahrung
 
-### [Firma 1]
+### bobbie Baustoffhandel 4.0
 
-**[Position]**
-_[MM/JJJJ – MM/JJJJ oder heute]_
+**Produktmanager**
+_04/2026 – heute_
 
-- [Tätigkeit/Ergebnis 1]
-- [Tätigkeit/Ergebnis 2]
-- [Tätigkeit/Ergebnis 3]
+- Produktverantwortung für eine Planungssoftware für Flachdächer
+- Produktkonzeption, -strategie und agile Entwicklung
 
-_Technologien: [Tech 1], [Tech 2], [Tech 3]_
-
----
-
-### [Firma 2]
-
-**[Position]**
-_[MM/JJJJ – MM/JJJJ]_
-
-- [Tätigkeit/Ergebnis 1]
-- [Tätigkeit/Ergebnis 2]
+_Aachen, Nordrhein-Westfalen · Hybrid_
 
 ---
 
-### [Firma 3]
+### ABS Safety GmbH
 
-**[Position]**
-_[MM/JJJJ – MM/JJJJ]_
+**Senior User Experience Designer**
+_08/2021 – 04/2026_
 
-- [Tätigkeit/Ergebnis 1]
-- [Tätigkeit/Ergebnis 2]
+- User Experience & Interaction Design über den gesamten Produktentwicklungsprozess
+- User Research, Informationsarchitektur, Prototyping, Usability-Testing, UI Design
+
+_Essen, Nordrhein-Westfalen · Hybrid_
+
+---
+
+### ifm
+
+**User Experience Designer**
+_08/2015 – 07/2021_
+
+- User Centered Design, Interaction Design und Prototyping für Produkt- und Softwarelösungen
+
+_Essen, Nordrhein-Westfalen_
 
 ---
 
 ## Ausbildung
 
-### [Institution 1]
+### Universität Duisburg-Essen
 
-**[Abschluss/Ausbildung]**
-_[JJJJ – JJJJ]_
+**Diplom-Designer, Industrial and Product Design**
+_2001 – 2006_
 
-### [Institution 2]
+### Berufsausbildung
 
-**[Abschluss/Studium]**
-_[JJJJ – JJJJ]_
+**Tischlergeselle**
+
+---
+
+## Zertifikate
+
+- Certified Professional for Usability & User Experience – Foundation Level
+- SCRUM Master (TÜV Süd zertifiziert)
+- SCRUM Product Owner (TÜV Süd zertifiziert)
+- Java Development – Hochschulzertifikat, FH Lübeck
+- Software Design – Hochschulzertifikat, FH Lübeck
+- Multimedia Development – Hochschulzertifikat, FH Lübeck
+- Web Development – Hochschulzertifikat, FH Lübeck
+
+---
+
+## Auszeichnungen
+
+- iF Product Design Award für „Post 24|7" (mit Lengyel Design), 2009
+- Good Design Award (Chicago) für „Post 24|7", 2009
+- iF Product Design Award für Badewanne „Ovalis" (mit Uwe Spannagel), 2008
+- 1. Platz „Our Automatic Future" (EuVend Köln), 2005
 
 ---
 
 ## Schwerpunkte
 
-[Platzhalter: Einleitungssatz]
+Produktmanagement und UX/Product Design mit Fokus auf nutzerzentrierte Konzeption, Produktstrategie und agile Umsetzung.
 
-### Methoden & Technologien
+### Methoden & Kompetenzen
 
-- [Technologie/Skill 1], [Technologie/Skill 2], [Technologie/Skill 3]
-- [Kategorie]: [Technologie/Skill 4], [Technologie/Skill 5]
+- UX Design, Interaction Design, UI Design, Usability, User Centered Design
+- User Research, Usability Testing, Informationsarchitektur, Prototyping
+- Konzeption, Produktstrategie, Agile Entwicklung, Lean Startup
 
 ---
 
 ## Sprachen
 
-- [Sprache 1] ([Niveau])
-- [Sprache 2] ([Niveau])
+- Deutsch (Muttersprache, C2)
+- Englisch (fließend, C1)
+- Spanisch (Grundkenntnisse, A1–A2)
 
 ---
 
 ## Weiteres
 
-<!-- Platzhalter — optionale Angaben (Ehrenamt, Interessen etc.). Persönliche Details wie Geburtsdatum/Familienstand nur ergänzen, wenn ausdrücklich gewünscht. -->
-[Platzhalter: Weiteres]
+**Interessen:** Deejaying, Perkussion, Capoeira, Longboarding, Borussia Dortmund.
+
+<!-- Geburtsdatum auf Wunsch ergänzbar -->
 
 ---
 
 ## Kontakt
 
-<span class="contact-phone">Telefon: [+49 123 4567890]</span>
-<span class="contact-email">E-Mail: [vorname.nachname@example.com]</span>
-<span class="contact-online">LinkedIn: <a href="https://[linkedin.com/in/username]">Profil</a></span>
-<span class="contact-online">Xing: <a href="https://[xing.com/profile/username]">Profil</a></span>
-<span class="contact-location">Standort: [Musterstadt, Deutschland]</span>
+<span class="contact-email">E-Mail: gs4@gmx.de</span>
+<span class="contact-online">LinkedIn: <a href="https://www.linkedin.com/in/guido-schröder-b747101b1">Profil</a></span>
+<span class="contact-online">Xing: <a href="https://www.xing.com/profile/Guido_Schroeder2">Profil</a></span>
+<span class="contact-location">Standort: Essen, Deutschland</span>

@@ -3,10 +3,10 @@ layout: default
 title: Home
 ---
 
-# [Vorname Nachname]
+# Guido Schröder
 
-**[Jobtitel]**
-_[Kurzer Claim/Subline]_
+**Produktmanager · UX & Product Design**
+_Full-Stack Designer — von der Strategie bis zur Implementierung_
 
 ---
 
@@ -22,15 +22,14 @@ Einstieg zu den verschiedenen Profilversionen:
 
 ## Kurzprofil
 
-[Platzhalter: 2–3 Sätze Kurzprofil]
+Ich bin "Full-Stack Designer", da ich in jeder Phase des User-Experience-Design-Prozesses beteiligt bin — von der Strategie bis zur Implementierung. Aktuell verantworte ich als Produktmanager bei bobbie Baustoffhandel 4.0 eine Planungssoftware für Flachdächer, davor über viereinhalb Jahre als Senior User Experience Designer bei der ABS Safety GmbH.
 
 ---
 
 ## Kontakt
 
-<!-- - Telefon: [+49 123 4567890] -->
-<!-- - E-Mail: [vorname.nachname@example.com] -->
+<!-- - E-Mail: gs4@gmx.de -->
 
-- LinkedIn: <a href="https://[linkedin.com/in/username]"><i class="fa-brands fa-linkedin-in"></i> Profil</a>
-- Xing: <a href="https://[xing.com/profile/username]"><i class="fa-brands fa-xing"></i> Profil</a>
-- Standort: [Musterstadt, Deutschland]
+- LinkedIn: <a href="https://www.linkedin.com/in/guido-schröder-b747101b1"><i class="fa-brands fa-linkedin-in"></i> Profil</a>
+- Xing: <a href="https://www.xing.com/profile/Guido_Schroeder2"><i class="fa-brands fa-xing"></i> Profil</a>
+- Standort: Essen, Deutschland
