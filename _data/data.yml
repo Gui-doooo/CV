@@ -1,0 +1,15 @@
+header:
+  avatar: avatar-placeholder.png
+  tagline_lines:
+    - "[Rolle 1]"
+    - "[Rolle 2]"
+    - "[Rolle 3]"
+    - "[Rolle 4]"
+  email: "[vorname.nachname@example.com]"
+  phone_raw: "+491234567890"
+  phone_display: "[+49 123 4567890]"
+  website: "[example.com/cv]"
+  github: "[github.com/username]"
+  linkedin: "[linkedin.com/in/username]"
+  xing: "[xing.com/profile/username]"
+  location: "[Musterstadt, Deutschland]"
