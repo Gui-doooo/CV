@@ -7,7 +7,7 @@ Statische Website mit CV, Lebenslauf und Platz für weitere Seiten.
 - **/** — Startseite mit Navigation
 - **/cv/** — CV (englisch)
 - **/lebenslauf/** — Lebenslauf (deutsch)
-- **/assets/** — gemeinsames Profilfoto: `avatar-placeholder.png` (wird über `_data/data.yml` eingebunden, in CV und Lebenslauf verwendet)
+- **/assets/** — gemeinsames Profilfoto: `avatar.jpg` (wird über `_data/data.yml` eingebunden, in CV und Lebenslauf verwendet)
 
 Weitere Seiten: Ordner mit `index.md` anlegen und auf der Startseite verlinken.
 
