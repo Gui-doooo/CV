@@ -1,9 +1,6 @@
 // Local overrides for Pillar theme.
 
-// Only header picture in grayscale.
 .resume-header .picture {
-  filter: grayscale(100%);
-  -webkit-filter: grayscale(100%);
   width: auto;
   height: 220px;
   object-fit: contain;
