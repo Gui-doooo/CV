@@ -5,8 +5,8 @@ title: Home
 
 # Guido Schröder
 
-**Produktmanager · UX & Product Design**
-_Full-Stack Designer — von der Strategie bis zur Implementierung_
+**Produktmanager · User Experience Designer**
+_Full-Stack Designer — von der Strategie und Konzept bis zur Implementierung_
 
 ---
 
@@ -22,7 +22,7 @@ Einstieg zu den verschiedenen Profilversionen:
 
 ## Kurzprofil
 
-Ich bin "Full-Stack Designer", da ich in jeder Phase des User-Experience-Design-Prozesses beteiligt bin — von der Strategie bis zur Implementierung. Aktuell verantworte ich als Produktmanager bei bobbie Baustoffhandel 4.0 eine Planungssoftware für Flachdächer, davor über viereinhalb Jahre als Senior User Experience Designer bei der ABS Safety GmbH.
+Ich bin "Full-Stack Designer", da ich in jeder Phase des User-Experience-Design-Prozesses beteiligt bin — von der Strategie und Konzept bis zur Implementierung. Aktuell verantworte ich als Produktmanager bei der Bobbie Deutschland Planungs GmbH eine Planungssoftware für Flachdächer, davor fast fünf Jahre als Senior User Experience Designer bei der ABS Safety GmbH.
 
 ---
 
@@ -32,4 +32,4 @@ Ich bin "Full-Stack Designer", da ich in jeder Phase des User-Experience-Design-
 
 - LinkedIn: <a href="https://www.linkedin.com/in/guido-schröder-b747101b1"><i class="fa-brands fa-linkedin-in"></i> Profil</a>
 - Xing: <a href="https://www.xing.com/profile/Guido_Schroeder2"><i class="fa-brands fa-xing"></i> Profil</a>
-- Standort: Essen, Deutschland
+- Standort: Mülheim an der Ruhr, Deutschland
